@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fdm1try/hw-ajs-2.git"
+    "url": "git+https://github.com/fdm1try/hw-ajs-3.git"
   },
   "publishConfig": {
     "registry":"https://npm.pkg.github.com/"
